@@ -1,0 +1,24 @@
+{
+    "name": "devup/kokoc",
+    "description": "Just for fun )",
+    "authors": [
+        {
+            "name": "Sergey Makarov",
+            "email": "devup@yandex.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "kokoc\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+
+    "require-dev": {
+        "phpunit/phpunit": "^11.3"
+    }
+}
