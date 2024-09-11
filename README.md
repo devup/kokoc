@@ -1,2 +1,2 @@
-# kokoc
+# Kokoc
 Test case repository
